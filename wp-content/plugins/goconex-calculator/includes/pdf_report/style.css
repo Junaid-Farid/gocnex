@@ -1,0 +1,343 @@
+body{
+    font-family: 'Pontano Sans',sans-serif;
+}
+.custom_container_pdf{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.top_header{
+    padding-bottom: 40px;
+    padding-top: 25px;
+}
+.border-solid-1px{
+    border: 1px solid #B3B3B3;
+}
+.height-120px{
+    height: 120px;
+}
+.margin-top-40px{
+    margin-top: 40px;
+}
+.margin-bottom-25px{
+    margin-bottom: 25px;
+}
+.position-absolute{
+    position: absolute;
+}
+.position-relative{
+    position: relative;
+}
+.no-left-padding{
+    padding-left: 0px !important;
+}
+.no-right-padding{
+    padding-right: 0px !important;
+}
+.no-top-padding{
+    padding-top: 0px !important;
+}
+.no-bottom-padding{
+    padding-bottom: 0px !important;
+}
+.no-left-margin{
+    margin-left: 0px !important;
+}
+.no-right-margin{
+    margin-right:  0px !important;
+}
+.no-top-margin{
+    margin-top:  0px !important;
+}
+.no-margin{
+    margin: 0px !important;
+}
+.no-padding{
+    padding: 0px !important;
+}
+.margin-top-negitive-20px{
+    margin-top: -20px;
+}
+p.top-paragraphp{
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-bottom: 1px;
+    line-height: 1.3em;
+    text-align: center;
+    // padding-left: 40px;
+    //padding-right: 39px;
+    padding-top: 12px;
+}
+.class-form input[type="text"]{
+    width: 100px;
+    height: 40px;
+    border: 1px solid #B3B3B3; 
+    display: inline;
+    margin-left: 0px !important;
+    margin-right: 12px;
+}
+.option-form input[type="text"]{
+    width: 200px;
+    height: 40px;
+    border: 0px !important;
+    margin-left: 0px !important;
+    display: none;
+    margin-right: 12px;
+}
+p.form-paragraph{
+    font-size: 19px;
+    font-weight: bold;
+}
+#frmoption1 p{
+    font-size: .99rem;
+    font-weight: bold;
+}
+.class-form input[type="submit"]{
+    width: 260px;
+    text-transform: none;
+}
+.margin-top-negitive-50px
+{
+    margin-top:  -50px;
+}
+.margin-top-negitive-55px
+{
+    margin-top:  -55px;
+}
+.border-radius-5{
+    border-radius: 5px;
+}
+.padding-top-20{
+    padding-top: 20px !important;
+}
+.paddng-bottom-20
+{
+    padding-bottom: 20px;
+}
+.margin-top-80px{
+    margin-top: 80px;
+}
+.margin-bottom-10px{
+    margin-bottom:10px;
+}
+.font-size-1-3em{
+    font-size: 1.3em ;
+}
+.option-heading-p{
+    font-size: 1.4em; 
+    color: #26A9E0; 
+    text-transform: uppercase; 
+    line-height: 2
+}
+.text-alignment-center{
+    text-align: center;
+}
+.border-box-option{
+    border: 1px solid;
+    border-radius: 10px;
+}
+.paragraph-padding-left-10{
+    padding-left: 10px;
+}
+.green-color-text{
+    color: #006837;
+    font-weight: bold;
+}
+.red-color-text{
+    color: #C1272D;
+    font-weight: bold;
+}
+.light-red-color-text{
+    color: #F15A24;
+    font-weight: bold;
+}
+.light-green-color-text{
+    color: #6D9900;
+    font-weight: bold;
+}
+.light-purple-color-text{
+    color: #9A3FA6;
+    font-weight: bold;
+}
+.yello-grean-color{
+    color: #9CAB4C !important;
+}
+.yello-color{
+    color: #F79A35 !important;
+}
+.padding-left-20px{
+    padding-left: 20px;
+}
+.padding-left-35px
+{
+    padding-left: 35px;
+}
+.font-size-1-4em{
+    font-size: 1.4em !important;
+}
+p{
+    margin-bottom: 5px !important;
+    margin-right: 15px;
+}
+.display-inline{
+    display: inline;
+}
+.padding-left-30
+{
+    padding-left: 30px;
+}
+.padding-right-30
+{
+    padding-right: 40px;
+}
+.font-size-1-8{
+    font-size: 1.8em !important;
+}
+.padding-top-5{
+    padding-top: 5px !important;
+}
+.padding-left-15{
+    padding-left: 15px;
+}
+.padding-left-5px{
+    padding-left: 5px !important;
+}
+.padding-top-15{
+    padding-top: 15px;
+}
+.no-border
+{
+    border: 0px !important
+}
+.btn-report-top input[type="submit"]{
+    font-size: 1.2em !important;
+    text-transform: none !important;
+    padding-left: 20% !important;
+    padding-right: 20% !important;
+    //width: 30% !important;
+}
+.btn-contact-form input[type="submit"]
+{
+    font-size: 1.2em !important;
+    text-transform: none !important;
+    width: 65% !important;
+    text-align: center !important;
+    font-weight: normal !important;
+}
+
+.btn-contact-form input[type="text"] {
+    color: #000000 !important;
+    background-color: #A7A7A7;
+    width: 68% !important;
+    height: 75px !important;
+    text-align: center !important;
+}
+.btn-contact-form input[type="text"]::-webkit-input-placeholder {
+    color: #000000 !important;
+}
+.btn-contact-form input[type="text"]::moz-placeholder{
+    color: #000000 !important;
+}
+.padding-top-20-prcnt{
+    padding-top: 20% ;
+}
+.padding-top-3-3-prcnt{
+    padding-top: 3.3% ;
+}
+.cstuoma, button, .button input[type="button"] {
+    background-color: #F4B115  !important;
+    text-transform: none !important;
+    font-family: 'Lato',sans-serif !important;
+    color: #fff !important ;
+    font-size: 0.875rem !important;
+    font-weight: 700 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    swidth: 100%;
+    width: 100%;
+    padding: 1rem 1rem 1rem !important;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    cursor: pointer;
+}
+.cstuoma, button, .button input[type="button"]:hover, .button:hover, button:hover{
+    background-color: #F4B537 !important;
+}
+.padding-top-5_prcnt{
+    padding-top: 5% !important;
+}
+.button, input[type="button"], input[type="reset"], input[type="submit"]{
+    text-transform: capitalize !important;
+}
+.padding-bottom-10
+{
+    padding-bottom: 10px !important;
+}
+.padding-right-5{
+    padding-right: 5px !important;
+}
+.margin-nvg-top-30{
+    margin-top: -30px !important;
+}
+.padding-bottom-100px{
+    padding-bottom: 100px ;
+}
+.margin-left-10px{
+    margin-left: 10px !important;
+}
+.padding-left-10{
+    padding-left: 10px !important;
+}
+.padding-bottom-15{
+    padding-bottom: 15px !important;
+}
+.padding-top-40{
+    padding-top: 40px !important;
+}
+.font-size-1-2rem{
+    font-size: 1.2rem !important;
+}
+.padding-bottom-30px{
+    padding-bottom: 30px !important;
+}
+.pdf_column{
+    width: 27%;
+    padding-right: 20px;
+}
+.pdf_sign{
+    width: 5%;
+    padding-right: 15px;
+}
+.left_float{
+    float: left;
+}
+.right_float{
+    float: right;
+}
+.clear_both{
+    clear: both;
+}
+p.form-paragraph_89rem {
+    font-size: .85rem;
+    font-weight: bold;
+}
+.margin-top-60px{
+    margin-top: 60px;
+}
+.pdf_last_box{
+    width: 34%;
+}
+.pdf_button{
+    width: 40%;
+}
+.margin-left-20px{
+    margin-left: 40px !important;
+}
+.pdf_column a{
+    text-decoration: none;
+    color: #000000;   
+}

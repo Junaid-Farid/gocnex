@@ -1,0 +1,355 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>Purolator WooCommerce Shipping Plugin - for Wordpress</title>
+	
+	<meta name="description" content="This Purolator Shipping Plugin for WooCommerce provides integration with Purolator for your WooCommerce website. It is able to provide live shipping rates directly to your customers in their shopping cart and at checkout. Also, it provides up-to-date package information from Purolator's Parcel Tracking service. This plugin is fully bilingual in English and Français (French) and is compatible with WPML, a multilingual plugin for Wordpress. ">
+	<meta name="author" content="TrueMedia">
+	<meta name="copyright" content="TrueMedia">
+	<meta name="generator" content="Documenter v2.0 http://rxa.li/documenter">
+	<meta name="date" content="2013-12-31T00:00:00+01:00">
+	
+	<link rel="stylesheet" href="assets/css/documenter_style.css" media="all">
+	<link rel="stylesheet" href="assets/js/google-code-prettify/prettify.css" media="screen">
+	<script src="assets/js/google-code-prettify/prettify.js"></script>
+
+	
+	
+	<script src="assets/js/jquery.js"></script>
+	
+	<script src="assets/js/jquery.scrollTo.js"></script>
+	<script src="assets/js/jquery.easing.js"></script>
+	
+	<script>document.createElement('section');var duration='500',easing='swing';</script>
+	<script src="assets/js/script.js"></script>
+	
+	<style>
+		html{background-color:#EEEEEE;color:#383838;}
+		::-moz-selection{background:#333636;color:#00DFFC;}
+		::selection{background:#333636;color:#00DFFC;}
+		#documenter_sidebar #documenter_logo{background-image:url();}
+		a{color:#008C9E;}
+		.btn {
+			border-radius:3px;
+		}
+		.btn-primary {
+			  background-image: -moz-linear-gradient(top, #008C9E, #006673);
+			  background-image: -ms-linear-gradient(top, #008C9E, #006673);
+			  background-image: -webkit-gradient(linear, 0 0, 0 008C9E%, from(#343838), to(#006673));
+			  background-image: -webkit-linear-gradient(top, #008C9E, #006673);
+			  background-image: -o-linear-gradient(top, #008C9E, #006673);
+			  background-image: linear-gradient(top, #008C9E, #006673);
+			  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#008C9E', endColorstr='#006673', GradientType=0);
+			  border-color: #006673 #006673 #bfbfbf;
+			  color:#FFFFFF;
+		}
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.btn-primary.disabled,
+		.btn-primary[disabled] {
+		  border-color: #008C9E #008C9E #bfbfbf;
+		  background-color: #006673;
+		}
+		hr{border-top:1px solid #D4D4D4;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ul a{background-color:#343838;color:#FFFFFF;}
+		#documenter_sidebar ul a{-webkit-text-shadow:1px 1px 0px #494F4F;-moz-text-shadow:1px 1px 0px #494F4F;text-shadow:1px 1px 0px #494F4F;}
+		#documenter_sidebar ul{border-top:1px solid #212424;}
+		#documenter_sidebar ul a{border-top:1px solid #494F4F;border-bottom:1px solid #212424;color:#FFFFFF;}
+		#documenter_sidebar ul a:hover{background:#333636;color:#00DFFC;border-top:1px solid #333636;}
+		#documenter_sidebar ul a.current{background:#333636;color:#00DFFC;border-top:1px solid #333636;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+</head>
+<body class="documenter-project-purolator-woocommerce-shipping-plugin">
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo"></a>
+		<ul id="documenter_nav">
+			<li><a class="current" href="#documenter_cover">Start</a></li>
+				
+			<li><a href="#introduction" title="Introduction">Introduction</a></li>
+			<li><a href="#installation" title="Installation">Installation</a></li>
+			<li><a href="#purolator_api_access" title="Purolator API Access">Purolator API Access</a></li>
+			<li><a href="#settings_screen" title="Settings Screen">Settings Screen</a></li>
+			<li><a href="#shipping_features" title="Shipping Features">Shipping Features</a></li>
+			<li><a href="#purolator_services" title="Purolator Services">Purolator Services</a></li>
+			<li><a href="#flat_rates" title="Flat Rates">Flat Rates</a></li>
+			<li><a href="#parcel_tracking" title="Parcel Tracking">Parcel Tracking</a></li>
+			<li><a href="#multilingual_bilingual" title="Multilingual / Bilingual">Multilingual / Bilingual</a></li>
+			<li><a href="#software_requirements" title="Software Requirements">Software Requirements</a></li>
+
+		</ul>
+		<div id="documenter_copyright">Copyright TrueMedia 2014<br>
+		made with the <a href="http://rxa.li/documenter">Documenter v2.0</a> 
+		</div>
+	</div>
+	<div id="documenter_content">
+	<section id="documenter_cover">
+	<h1>Purolator WooCommerce Shipping Plugin</h1>
+	<h2>for Wordpress</h2>
+	<div id="documenter_buttons">
+		
+	</div>
+	<hr>
+	<ul>
+	<li>created: 07/01/2013</li>
+	<li>latest update: 12/31/2013</li>
+	<li>by: TrueMedia</li>
+	<li><a href="http://truemedia.ca/">truemedia.ca/</a></li>
+	<li>email: <a href="mailto:&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#116;&#114;&#117;&#101;&#109;&#101;&#100;&#105;&#97;&#46;&#99;&#97;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#116;&#114;&#117;&#101;&#109;&#101;&#100;&#105;&#97;&#46;&#99;&#97;</a></li>
+	</ul>
+	<p>Thank you for purchasing this plugin. If you need support, please visit the plugin page on CodeCanyon.net</p>
+	</section>
+	
+	<section id="introduction">
+	<div class="page-header"><h3>Introduction</h3><hr class="notop"></div>
+<p>
+	This plugin gives your website a great integration with Purolator&#39;s live Rates and Tracking.</p>
+<p>
+	After installing the plugin, you just need to <a href="#purolator_api_access">follow the instructions to get your own Purolator API production account&nbsp;</a>. &nbsp;Then after entering your credentials and choosing your desired settings, the plugin is fully configured. &nbsp;You can then set the shipping method to be active and the parcel tracking to be active.</p>
+<p>
+	If the shipping rates do not seem to be correct at checkout, please remember to look at the Weight and Dimensions of the products, to ensure they are accurate and using the correct unit of measurement that Woocommerce is set to. &nbsp;The settings page for this plugin will allow you to adjust the rate calculation, so that you can have the best calculation possible for your ecommerce store.</p>
+<p>
+	Great! Let&#39;s continue to install and set up this plugin.</p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="installation">
+	<div class="page-header"><h3>Installation</h3><hr class="notop"></div>
+<p>	This plugin needs to be installed in your Wordpress website. &nbsp;It works with the <a href="http://wordpress.org/plugins/woocommerce/">WooCommerce plugin</a>, so ensure you install WooCommerce first.</p>
+<ol>
+	<li>		Install this plugin by uploading the <strong>woocommerce-purolator-webservice.zip</strong>&nbsp;file to your <strong>wp-content/plugins/</strong> folder<br>
+		Aternatively, you can upload this zip file through the Wordpress plugins install page.</li>
+	<li>		Activate the Plugin &ldquo;WooCommerce Purolator Webservice Method&rdquo;</li>
+	<li>		If there are any error messages, please ensure you have checked the Software Requirements section and have that software enabled on your server.</li>
+</ol>
+</section>
+<section id="purolator_api_access">
+	<div class="page-header"><h3>Purolator API Access</h3><hr class="notop"></div>
+<p>
+	<strong>Set up Account with Purolator</strong></p>
+<ol>
+	<li>
+		This shipping plugin requires that you have an account with Purolator. &nbsp;If you don&#39;t already have a Business account with Purolator, <a href="https://eshiponline.purolator.com/ShipOnline/SecurePages/Public/Register.aspx?lang=e">you can sign up here on Purolator&#39;s website</a>.</li>
+	<li>
+		Then you&#39;ll need a Developer account with Purolator. &nbsp;Don&rsquo;t worry, it&rsquo;s a free account! You can register by going to the <a href="https://eship.purolator.com/Site/en/createnewuser.aspx">Purolator Developer Centre</a>.</li>
+	<li>
+		Then, after you register/log-in, Click on the link &quot;<a href="https://eship.purolator.com/Site/en/productionkey/requestproductionkey.aspx">Request Production Key</a>&quot; in the Purolator Developer website and follow the steps in the online form.&nbsp;</li>
+	<li>
+		You will receive your Production Key by email, which you will use in the following steps</li>
+</ol>
+<p>
+	<strong>Connect Plugin to Purolator with Production API Username/Password</strong></p>
+<ol>
+	<li>
+		After signing up, you will need the following information:
+		<ol>
+			<li>
+				Purolator Business Account Number</li>
+			<li>
+				API Username &amp; API Password.</li>
+		</ol>
+	</li>
+	<li>
+		Enter the Account Number, API Username &amp; Password in the Purolator Shipping Method area of WooCommerce.<br>
+		This can be found by going to WooCommerce &gt; Settings &gt; Shipping (Tab) &gt; Purolator (Sub Tab).</li>
+	<li>
+		As a minimum, you need to complete the following for the plugin to work:
+		<ol>
+			<li>
+				Purolator Business Account Number</li>
+			<li>
+				API Username</li>
+			<li>
+				API Password</li>
+			<li>
+				Origin Postal Code &nbsp;&nbsp;<em>- &nbsp;This is the location you send your packages from</em></li>
+			<li>
+				Select &ldquo;<strong>Production/Live</strong>&rdquo;&nbsp; dropdown in the Development section and make sure that &ldquo;Display Errors&rdquo; is&nbsp;<strong>not checked.</strong></li>
+		</ol>
+	</li>
+</ol>
+<div class="alert">
+	If your website is Live: Make sure you use the <strong>Production </strong>API Username/Password&nbsp;is from Purolator and you do NOT select &quot;<strong>Display Errors</strong>&quot; checkbox in the Settings.</div>
+<p>
+	Select the &ldquo;Enable Purolator Webservice&rdquo; Checkbox and Click &ldquo;Save Changes&rdquo; to activate.</p>
+<p>
+	<img alt="" src="assets/images/image_2.png" style="width: 490px; height: 134px;"></p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="settings_screen">
+	<div class="page-header"><h3>Settings Screen</h3><hr class="notop"></div>
+<p>
+	Here is a screenshot of the Settings screen for your reference, found in<br>
+	WooCommerce &gt; Settings &gt; Shipping (Tab) &gt; &nbsp;Purolator (Sub Tab):</p>
+<p>
+	<img alt="" src="assets/images/image_3.png" style="width: 1431px; height: 1857px;"></p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="shipping_features">
+	<div class="page-header"><h3>Shipping Features</h3><hr class="notop"></div>
+<p>
+	The following features help you adjust the shipping costs with margin/markup<br>
+	&nbsp;</p>
+<p>
+	<strong>Add Margin</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+	This allows you to add a markup (increase the cost) to your shipping cost.&nbsp; It is expressed in Margin Percentage (ex. 5%) .&nbsp; If you configured 5%, then your customers would be presented the final shipping costs increased by 5% from the rates you received from Purolator.<br>
+	&nbsp;</p>
+<p>
+	<strong>Box/Envelope Weight</strong>&nbsp;&nbsp;<br>
+	This allows you to accommodate the typical weight of your packaging or boxes along with any paper/invoicing and materials that you add to your shipment.&nbsp; Typically this is a minimal weight (ie 0.02kg) because it is added to all shipments before checking the rates.</p>
+<p>
+	<strong>Delivery Dates&nbsp; </strong><br>
+	Certain shipping services/products from Purolator will provide Estimated Delivery dates, so as to differentiate the services.&nbsp; You will be able to see which ones are next-day service or longer. In order to provide these dates to the customers, you are given the ability to add a number of days after the order is placed, so that you can fulfill the order, process payment, package, etc.&nbsp; Enter a number of days (ie. 3) in the box &ldquo;Days to Ship after order placed &ldquo;.&nbsp; Then check the &ldquo;Show Estimated Delivery Dates&rdquo; checkbox to enable these delivery dates to be shown to your customers in their cart and checkout.<br>
+	&nbsp;</p>
+<p>
+	<strong>Shipping Package/Box sizes</strong><br>
+	Configure the packages/boxes that you use to ship.&nbsp; Since most items are packaged, they will need to fit inside the boxes.&nbsp; These are used in a volumetric calculation to assist in getting accurate rates from Purolator. Enter the envelope and box sizes in CM.<br>
+	<br>
+	<img alt="" src="assets/images/image_1.png" style="width: 1078px; height: 198px;"></p>
+</section>
+<section id="purolator_services">
+	<div class="page-header"><h3>Purolator Services</h3><hr class="notop"></div>
+<p>
+	You will be given an option to choose which Purolator products your business uses to ship items.&nbsp; These will be presented to your customers as options in the shopping cart. &nbsp;&nbsp;For example, if you do not use Purolator Express 9AM, then un-select this shipping service.</p>
+<ul>
+	<li>
+		<div>
+			Purolator Ground</div>
+	</li>
+	<li>
+		<div>
+			Purolator Express</div>
+	</li>
+	<li>
+		<div>
+			Purolator Express 9AM</div>
+	</li>
+	<li>
+		<div>
+			Purolator Express 10:30AM</div>
+	</li>
+	<li>
+		<div>
+			Purolator Ground 9AM</div>
+	</li>
+	<li>
+		<div>
+			Purolator Ground 10:30AM</div>
+	</li>
+	<li>
+		<div>
+			Purolator Express International</div>
+	</li>
+	<li>
+		<div>
+			Purolator Express U.S.</div>
+	</li>
+	<li>
+		<div>
+			Purolator Ground U.S.</div>
+	</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="flat_rates">
+	<div class="page-header"><h3>Flat Rates</h3><hr class="notop"></div>
+<p>
+	This plugin allows you to set Flat rates, which is especially useful if you have small items that can be shipped economically.&nbsp;</p>
+<p>
+	The weight range (example 0.kg1 to &lt;=0.2kg) only shows the price entered if the <strong>total weight </strong>of the cart is within this limit (example 0.14kg or 0.2kg).</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong><img alt="" src="assets/images/image_4.png" style="width: 1227px; height: 363px;">&nbsp;</strong></p>
+</section>
+<section id="parcel_tracking">
+	<div class="page-header"><h3>Parcel Tracking</h3><hr class="notop"></div>
+<p>
+	Package Tracking gives you an easy way to share Tracking information to your Customers.</p>
+<p>
+	<img alt="" src="assets/images/image_5.png"  ></p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		Go to the Order Details page of an order in WooCommerce.</li>
+	<li>
+		View the section labeled &ldquo;<strong>Order Shipping Tracking</strong>&rdquo;</li>
+	<li>
+		Enter the Tracking Number in the input box and click &ldquo;Add Tracking Number&rdquo;</li>
+	<li>
+		The tracking details will be looked up and attached to the order.&nbsp;&nbsp; This will now be displayed to the customer in their My Orders page and will be emailed in any invoices that you send: For example, the Order Completion action will send an Email and the tracking details will be included in this email.</li>
+	<li>
+		If the information was attached accidentally or the tracking number was inputted incorrectly, there is a Remove button to simply remove the tracking details.</li>
+	<li>
+		Before doing the Order Completion action, it is recommended to click the &ldquo;Update&rdquo; button beside the Tracking info, to refresh and bring up to date the Tracking information sent to the customer in the order completion email.</li>
+</ul>
+<p>
+	This shipping plugin can&nbsp;automatically update the tracking details on a regular basis (daily using WP Cron). &nbsp;It will send your customer an email if the &quot;<strong>Mailed on</strong>&quot; or &quot;<strong>Delivery</strong>&quot; dates are updated in the tracking information on Purolator&#39;s system.&nbsp;</p>
+<h3>
+	<strong>Setup</strong></h3>
+<div class="alert alert-info">
+	Please select &ldquo;Enable Purolator Tracking number feature&rdquo; checkbox in the Settings area.</div>
+<p>
+	&nbsp;</p>
+<div>
+	You can also select &quot;<label for="woocommerce_cpwebservice_email_tracking" style="cursor: pointer; vertical-align: middle; color: rgb(51, 51, 51); font-family: sans-serif; line-height: 20px;">Enable Email notification when Parcel Tracking updates&quot; if you want Customers to receive their customer invoice if the &quot;Mailed on&quot; or &quot;Delivery&quot; dates are updated in the tracking information from Purolator.</label></div>
+</section>
+<section id="multilingual_bilingual">
+	<div class="page-header"><h3>Multilingual / Bilingual</h3><hr class="notop"></div>
+<p>
+	This is an optional setup.</p>
+<p>
+	<span style="font-size: 12px;">Results from Purolator can be shown in English or Fran&ccedil;ais (French) as set by your Wordpress installation or WPML language selection. The plugin includes a language file for French (fr_FR), which provides full French translation for all admin screens and labels.</span></p>
+<ul>
+	<li>
+		If you want to change your Wordpress Installation to French, just download the French Published version from <a href="http://fr.wordpress.org/download" target="_blank">fr.Wordpress.org</a> and add the <strong>wp-content/language/</strong> folder to your wp-content folder:</li>
+	<li>
+		<pre class="prettyprint lang-plain linenums">
+/wp-content/language/*</pre>
+	</li>
+	<li>
+		Then modify your wp-config.php file and set the following line to have the value &ldquo;<strong>fr_FR</strong>&rdquo;</li>
+	<li>
+		<pre class="prettyprint lang-php linenums">
+define(&#39;WPLANG&#39;,&#39;fr_FR&#39;);</pre>
+	</li>
+</ul>
+<ul>
+	<li>
+		If you want to change any of the translated words, you are welcome to edit the .po file included in the plugin in the languages folder.</li>
+</ul>
+</section>
+<section id="software_requirements">
+	<div class="page-header"><h3>Software Requirements</h3><hr class="notop"></div>
+<ul>
+	<li>
+		Wordpress 3.0 + with WooCommerce 2.0 +</li>
+	<li>
+		PHP cURL enabled (with outgoing Firewall configured if required)</li>
+	<li>
+		Purolator Developer Account with API Access (free)<br>
+		<a href="https://eship.purolator.com">eship.purolator.com</a></li>
+	<li>
+		PHP SimpleXML&nbsp; (enabled by default in PHP)</li>
+</ul>
+</section>
+
+	</div>
+</body>
+</html>

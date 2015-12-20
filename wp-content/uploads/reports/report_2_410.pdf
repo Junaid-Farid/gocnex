@@ -1,0 +1,667 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 9]>
+<html class="ie ie9" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+        
+    <!--    ******************************************************************** -->
+    <!--    ******************************************************************** -->
+    <!--
+            * WordPress: v4.3.1
+            * WooCommerce: v2.4.7
+            * Visual Composer: v4.7.2
+            * Theme: Shopkeeper v1.4.2 by Get Bowtied
+            * Child Theme: Not activated
+    -->
+    <!--    ******************************************************************** -->
+    <!--    ******************************************************************** -->
+    
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://localhost/goconex/xmlrpc.php">
+    
+    
+    <!-- ******************************************************************** -->
+    <!-- * Custom Favicon *************************************************** -->
+    <!-- ******************************************************************** -->
+    
+        
+    <!-- ******************************************************************** -->
+    <!-- * Favicon ********************************************************** -->
+    <!-- ******************************************************************** -->
+    
+    <link rel="shortcut icon" href="http://localhost/goconex/wp-content/uploads/2014/12/favicon.png" />
+        
+        
+    <!-- ******************************************************************** -->
+    <!-- * Custom Header JavaScript Code ************************************ -->
+    <!-- ******************************************************************** -->
+    
+                                                    
+	
+    <!-- ******************************************************************** -->
+    <!-- * WordPress wp_head() ********************************************** -->
+    <!-- ******************************************************************** -->
+    
+    <title>Page not found - GoConex</title>
+
+<link rel="stylesheet" href="http://localhost/goconex/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.2.7" type="text/css" media="all" />
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic', 'Pontano+Sans:400&amp;subset=latin']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                    <script>(window.gaDevIds=window.gaDevIds||[]).push('5CDcaG');</script>
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - GoConex" />
+<meta property="og:site_name" content="GoConex" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="GoConex &raquo; Feed" href="http://localhost/goconex/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GoConex &raquo; Comments Feed" href="http://localhost/goconex/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/localhost\/goconex\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='currency-switcher-css'  href='http://localhost/goconex/wp-content/plugins/woocommerce-multilingual/assets/css/currency-switcher.css?ver=3.6.11' type='text/css' media='all' />
+<link rel='stylesheet' id='goconexform-css'  href='http://localhost/goconex/wp-content/plugins/goconex-calculator/css/grid12.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='goconexformstyle-css'  href='http://localhost/goconex/wp-content/plugins/goconex-calculator/css/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='goconexslidercss-css'  href='http://localhost/goconex/wp-content/plugins/goconex-calculator/css/slider.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='goconexformstyle2-css'  href='http://localhost/goconex/wp-content/plugins/goconex-calculator/css/style2.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='goconexslidercssless-css'  href='http://localhost/goconex/wp-content/plugins/goconex-calculator/css/slider.less?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery_ui-css'  href='http://localhost/goconex/wp-content/plugins/goconex-calculator/css/jquery-ui.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='loadercss-css'  href='http://localhost/goconex/wp-content/plugins/goconex-calculator/js/loader/min/jquery.loader.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://localhost/goconex/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='rp-wcdpd-frontend-styles-css'  href='http://localhost/goconex/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/css/style-frontend.css?ver=1.0.14' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//localhost/goconex/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//localhost/goconex/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.4.7' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//localhost/goconex/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-foundation-app-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/app.css?ver=5.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-animate-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/animate.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-awesome-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/font-awesome/css/font-awesome.min.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-linea-arrows-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/linea-fonts/arrows/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-linea-basic-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/linea-fonts/basic/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-linea-basic_elaboration-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/linea-fonts/basic_elaboration/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-linea-ecommerce-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/linea-fonts/ecommerce/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-linea-music-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/linea-fonts/music/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-linea-software-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/linea-fonts/software/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-font-linea-weather-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/inc/fonts/linea-fonts/weather/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-fresco-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/fresco/fresco.css?ver=1.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-idangerous-swiper-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/idangerous.swiper.css?ver=2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-owl-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/owl.carousel.css?ver=1.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-owl-theme-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/owl.theme.css?ver=1.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-offcanvas-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/offcanvas.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-nanoscroller-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/nanoscroller.css?ver=0.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-select2-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/select2.css?ver=3.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-easyzoom-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/easyzoom.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-defaults-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/defaults.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-woocommerce-overwrite-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/woocommerce-overwrite.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-top-bar-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/header-topbar.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-headers-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/headers.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-menus-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/navigations.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-header-default-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/header-default.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-styles-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-responsive-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/css/responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-default-style-css'  href='http://localhost/goconex/wp-content/themes/shopkeeper/style.css?ver=4.3.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-58677170-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://localhost/goconex/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/woocommerce-multilingual/assets/js/cart_widget.js?ver=3.6.11'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/scripts-frontend.js?ver=1.0.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/goconex\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/goconex\/wp-content\/plugins\/goconex-calculator-pdf-vendor\/second-result-sheet.php?id=410&wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/localhost\/goconex\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//localhost/goconex/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.7'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/goconex/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/goconex/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<meta name="generator" content="WooCommerce 2.4.7" />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "<h2>THIS IS SOME TITLE</h2><br/>";
+
+					content += "Type:"+obj.type+"</br>";
+					content += "ID:"+obj.id+"</br>";        
+					content += "Aspect Ratio:"+obj.aspectratio+"</br>";  
+					
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '1ed4ce8c94';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://localhost/goconex/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				}
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined')
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+					}
+				},30);
+			});
+		</script>
+		<meta name="generator" content="WPML ver:3.2.7 stt:1;" />
+    <script type="text/javascript">
+        var shopkeeper_ajaxurl = '/goconex/wp-admin/admin-ajax.php';
+    </script>
+<script>        
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+                        ga("create", "UA-58677170-1", "goconex.com");
+                        
+                      
+                        ga("send", "pageview");</script>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://localhost/goconex/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://localhost/goconex/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><!-- ******************************************************************** --><!-- * Theme Options Styles ********************************************* --><!-- ******************************************************************** --><style>/***************************************************************//* Body ********************************************************//***************************************************************/.st-content {background-color:#fff;background-repeat:;background-position:;background-size:;background-attachment:;}/***************************************************************//* Fonts *******************************************************//***************************************************************/h1, h2, h3, h4, h5, h6,.comments-title,.comment-author,#reply-title,#site-footer .widget-title,.accordion_title,.ui-tabs-anchor,.products .button,.site-title a,.post_meta_archive a,.post_meta a,.post_tags a,#nav-below a,.list_categories a,.list_shop_categories a,.main-navigation > ul > li > a,.main-navigation .mega-menu > ul > li > a,.more-link,.top-page-excerpt,.select2-container .select2-choice > .select2-chosen,.select2-search input,.product_after_shop_loop_buttons a,.woocommerce .products-grid a.button,.page-numbers,input.qty,.woocommerce form .form-row label,.woocommerce-page form .form-row label,.button,button,.button_text,input[type="button"],input[type="reset"],input[type="submit"],.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page #content input.button.alt,.yith-wcwl-wishlistexistsbrowse.show a,.share-product-text,.tabs > li > a,label,.comment-respond label,.product_meta_title,.woocommerce table.shop_table th,.woocommerce-page table.shop_table th,#map_button,.coupon_code_text,.woocommerce .cart-collaterals .cart_totals tr.order-total td strong,.woocommerce-page .cart-collaterals .cart_totals tr.order-total td strong,.cart-wishlist-empty,.return-to-shop .wc-backward,.order-number a,.account_view_link,.post-edit-link,.from_the_blog_title,.icon_box_read_more,.vc_pie_chart_value,.shortcode_banner_simple_bullet,.shortcode_banner_simple_height_bullet,.category_name,.woocommerce span.onsale,.woocommerce-page span.onsale,.out_of_stock_badge_single,.out_of_stock_badge_loop,.page-numbers,.page-links,.add_to_wishlist,.yith-wcwl-wishlistaddedbrowse,.yith-wcwl-wishlistexistsbrowse,.filters-group,.product-name,.woocommerce-page .my_account_container table.shop_table.order_details_footer tr:last-child td:last-child .amount,.customer_details dt,.widget h3,.widget ul a,.widget a,.widget .total .amount,.wishlist-in-stock,.wishlist-out-of-stock,.comment-reply-link,.comment-edit-link,.widget_calendar table thead tr th,.page-type,.mobile-navigation a,table thead tr th,.portfolio_single_list_cat,.portfolio-categories,.shipping-calculator-button{font-family:'Lato',sans-serif;}body,p,#site-navigation-top-bar,.site-title,.widget_product_search #searchsubmit,.widget_search #searchsubmit,.widget_product_search .search-submit,.widget_search .search-submit,#site-menu,.copyright_text,blockquote cite,table thead th,.recently_viewed_in_single h2,.woocommerce .cart-collaterals .cart_totals table th,.woocommerce-page .cart-collaterals .cart_totals table th,.woocommerce .cart-collaterals .shipping_calculator h2,.woocommerce-page .cart-collaterals .shipping_calculator h2,.qty,.shortcode_banner_simple_inside h4,.shortcode_banner_simple_height h4,.fr-caption,.post_meta_archive,.post_meta,.page-links-title,.yith-wcwl-wishlistaddedbrowse .feedback,.yith-wcwl-wishlistexistsbrowse .feedback,.product-name span,.widget_calendar table tbody a,.fr-touch-caption-wrapper{font-family:'Pontano Sans',sans-serif;}/***************************************************************//* Body Text Colors  *******************************************//***************************************************************/body,table tr th,table tr td,table thead tr th,blockquote p,label,.woocommerce .woocommerce-breadcrumb a,.woocommerce-page .woocommerce-breadcrumb a,.select2-dropdown-open.select2-drop-above .select2-choice,.select2-dropdown-open.select2-drop-above .select2-choices,.select2-container .select2-choice,.select2-container,.big-select,.select.big-select,.list-centered li a,.post_meta_archive a,.post_meta a,.nav-next a,.nav-previous a,.blog-single h6,.page-description,.woocommerce #content nav.woocommerce-pagination ul li a:focus,.woocommerce #content nav.woocommerce-pagination ul li a:hover,.woocommerce #content nav.woocommerce-pagination ul li span.current,.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,.woocommerce-page #content nav.woocommerce-pagination ul li a:hover,.woocommerce-page #content nav.woocommerce-pagination ul li span.current,.woocommerce-page nav.woocommerce-pagination ul li a:focus,.woocommerce-page nav.woocommerce-pagination ul li a:hover,.woocommerce-page nav.woocommerce-pagination ul li span.current,.woocommerce table.shop_table th,.woocommerce-page table.shop_table th,.woocommerce .cart-collaterals .cart_totals h2,.woocommerce-page .cart-collaterals .cart_totals h2,.woocommerce .cart-collaterals .cart_totals table tr.order-total td:last-child,.woocommerce-page .cart-collaterals .cart_totals table tr.order-total td:last-child,.woocommerce-checkout .woocommerce-info,.woocommerce-checkout h3,.woocommerce-checkout h2,.woocommerce-account h2,.woocommerce-account h3,.customer_details dt,.wpb_widgetised_column .widget,.wpb_widgetised_column .widget a,.wpb_widgetised_column .widget.widget_layered_nav li,.portfolio_single_list_cat a,.gallery-caption-trigger{color: #222222;}.woocommerce a.remove{color: #222222 !important;}.nav-previous-title,.nav-next-title,.post_tags a,.wpb_widgetised_column .tagcloud a,.products .add_to_wishlist:before{color: rgba(34,34,34,0.4);}.required{color: rgba(34,34,34,0.4) !important;}.yith-wcwl-add-button,.yith-wcwl-wishlistaddedbrowse,.yith-wcwl-wishlistexistsbrowse,.share-product-text,.product_meta .sku,.product_meta a,.product_meta_separator,.woocommerce table.shop_attributes td,.woocommerce-page table.shop_attributes td,.woocommerce .woocommerce-breadcrumb,.woocommerce-page .woocommerce-breadcrumb,.tob_bar_shop,.post_meta_archive,.post_meta,del,.woocommerce .cart-collaterals .cart_totals table tr td:last-child,.woocommerce-page .cart-collaterals .cart_totals table tr td:last-child,.product-name .product-quantity,.woocommerce #payment div.payment_box,.wpb_widgetised_column .widget li,.wpb_widgetised_column .widget_calendar table thead tr th,.wpb_widgetised_column .widget_calendar table thead tr td,.wpb_widgetised_column .widget .post-date,.wpb_widgetised_column .recentcomments,.wpb_widgetised_column .amount,.wpb_widgetised_column .quantity,.products li:hover .add_to_wishlist:before,.product_after_shop_loop .price,.product_after_shop_loop .price ins,.wpb_wrapper .add_to_cart_inline del,.wpb_widgetised_column .widget_price_filter .price_slider_amount{color: rgba(34,34,34,0.55);}.products a.button.add_to_cart_button.loading{color: rgba(34,34,34,0.55) !important;}.add_to_cart_inline .amount{color: rgba(34,34,34,0.8);}input[type="text"],input[type="password"],input[type="date"],input[type="datetime"],input[type="datetime-local"],input[type="month"], input[type="week"],input[type="email"], input[type="number"],input[type="search"], input[type="tel"],input[type="time"], input[type="url"],textarea,select,.chosen-container-single .chosen-single,.country_select.select2-container,.woocommerce form .form-row.woocommerce-validated .select2-container,.woocommerce form .form-row.woocommerce-validated input.input-text,.woocommerce form .form-row.woocommerce-validated select,.woocommerce form .form-row.woocommerce-invalid .select2-container,.woocommerce form .form-row.woocommerce-invalid input.input-text,.woocommerce form .form-row.woocommerce-invalid select,.country_select.select2-container,.state_select.select2-container,#coupon_code{border-color: rgba(34,34,34,0.1);}input[type="text"]:focus, input[type="password"]:focus,input[type="date"]:focus, input[type="datetime"]:focus,input[type="datetime-local"]:focus, input[type="month"]:focus,input[type="week"]:focus, input[type="email"]:focus,input[type="number"]:focus, input[type="search"]:focus,input[type="tel"]:focus, input[type="time"]:focus,input[type="url"]:focus, textarea:focus,select:focus,#coupon_code:focus,.chosen-container-single .chosen-single:focus,.woocommerce .product_infos .quantity input.qty,.woocommerce #content .product_infos .quantity input.qty,.woocommerce-page .product_infos .quantity input.qty,.woocommerce-page #content .product_infos .quantity input.qty,.post_tags a,.wpb_widgetised_column .tagcloud a,.coupon_code_wrapper,.woocommerce form.checkout_coupon,.woocommerce-page form.checkout_coupon,.woocommerce ul.digital-downloads:before,.woocommerce-page ul.digital-downloads:before,.woocommerce ul.digital-downloads li:after,.woocommerce-page ul.digital-downloads li:after,.widget_search .search-form{border-color: rgba(34,34,34,0.15);}.list-centered li a,.woocommerce .cart-collaterals .cart_totals h2,.woocommerce-page .cart-collaterals .cart_totals h2,.my_address_title,.woocommerce .shop_table.order_details tbody tr:last-child td,.woocommerce-page .shop_table.order_details tbody tr:last-child td,.woocommerce #payment ul.payment_methods li,.woocommerce-page #payment ul.payment_methods li,.comment-separator,.comment-list .pingback,.wpb_widgetised_column .widget,.search_result_item,.woocommerce div.product .woocommerce-tabs ul.tabs li:after,.woocommerce #content div.product .woocommerce-tabs ul.tabs li:after,.woocommerce-page div.product .woocommerce-tabs ul.tabs li:after,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:after,.woocommerce-cart.woocommerce-page #content .quantity input.qty,.woocommerce .cart-collaterals .cart_totals .order-total td,.woocommerce .cart-collaterals .cart_totals .order-total th,.woocommerce-page .cart-collaterals .cart_totals .order-total td,.woocommerce-page .cart-collaterals .cart_totals .order-total th{border-bottom-color: rgba(34,34,34,0.15);}table tr td,.woocommerce table.shop_table td,.woocommerce-page table.shop_table td,.product_socials_wrapper,.woocommerce-tabs,.comments_section,.portfolio_content_nav #nav-below,.woocommerce .cart-collaterals .cart_totals .order-total td,.woocommerce .cart-collaterals .cart_totals .order-total th,.woocommerce-page .cart-collaterals .cart_totals .order-total td,.woocommerce-page .cart-collaterals .cart_totals .order-total th{border-top-color: rgba(34,34,34,0.15);}table.shop_attributes tr td,.wishlist_table tr td,.shop_table.cart tr td{border-bottom-color: rgba(34,34,34,0.1);}.product_meta,.woocommerce .cart-collaterals,.woocommerce-page .cart-collaterals,.checkout_right_wrapper,.track_order_form,.order-info{background: rgba(34,34,34,0.05);}.custom_border:before,.custom_border:after{background-image: radial-gradient(closest-side, transparent 9px, rgba(34,34,34,0.05) 100%);}.cart-buttons .update_and_checkout .update_cart{background: rgba(34,34,34,0.55) !important;}.cart-buttons .update_and_checkout .update_cart:hover{background: rgba(34,34,34,0.44) !important;}.comments_section{background-color: rgba(34,34,34,0.01) !important;}h1, h2, h3, h4, h5, h6,.entry-title-archive a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a:hover,.woocommerce table.cart .product-name a,.product-title-link,.wpb_widgetised_column .widget .product_list_widget a{color: #000000;}.woocommerce div.product .woocommerce-tabs ul.tabs li a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li a,.woocommerce-page div.product .woocommerce-tabs ul.tabs li a,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a{color: rgba(0,0,0,0.35);}.woocommerce #content div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce-page div.product .woocommerce-tabs ul.tabs li a:hover{color: rgba(0,0,0,0.45);}.page-title:after{background: #000000;}/***************************************************************//* Main Color  *************************************************//***************************************************************/a,.comments-area a,.edit-link,.post_meta_archive a:hover,.post_meta a:hover,.entry-title-archive a:hover,blockquote:before,.no-results-text:before,.list-centered a:hover,.comment-reply i,.comment-edit-link i,.comment-edit-link,.filters-group li:hover,#map_button,.widget_shopkeeper_social_media a,.account-tab-link-mobile,.lost-reset-pass-text:before,.list_shop_categories a:hover,.add_to_wishlist:hover,.woocommerce div.product span.price,.woocommerce-page div.product span.price,.woocommerce #content div.product span.price,.woocommerce-page #content div.product span.price,.woocommerce div.product p.price,.woocommerce-page div.product p.price,.woocommerce #content div.product p.price,.woocommerce-page #content div.product p.price,.comment-metadata time,.woocommerce p.stars a.star-1.active:after,.woocommerce p.stars a.star-1:hover:after,.woocommerce-page p.stars a.star-1.active:after,.woocommerce-page p.stars a.star-1:hover:after,.woocommerce p.stars a.star-2.active:after,.woocommerce p.stars a.star-2:hover:after,.woocommerce-page p.stars a.star-2.active:after,.woocommerce-page p.stars a.star-2:hover:after,.woocommerce p.stars a.star-3.active:after,.woocommerce p.stars a.star-3:hover:after,.woocommerce-page p.stars a.star-3.active:after,.woocommerce-page p.stars a.star-3:hover:after,.woocommerce p.stars a.star-4.active:after,.woocommerce p.stars a.star-4:hover:after,.woocommerce-page p.stars a.star-4.active:after,.woocommerce-page p.stars a.star-4:hover:after,.woocommerce p.stars a.star-5.active:after,.woocommerce p.stars a.star-5:hover:after,.woocommerce-page p.stars a.star-5.active:after,.woocommerce-page p.stars a.star-5:hover:after,.yith-wcwl-add-button:before,.yith-wcwl-wishlistaddedbrowse .feedback:before,.yith-wcwl-wishlistexistsbrowse .feedback:before,.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before,.product_meta a:hover,.woocommerce .shop-has-sidebar .no-products-info .woocommerce-info:before,.woocommerce-page .shop-has-sidebar .no-products-info .woocommerce-info:before,.woocommerce .woocommerce-breadcrumb a:hover,.woocommerce-page .woocommerce-breadcrumb a:hover,.intro-effect-fadeout.modify .post_meta a:hover,.from_the_blog_link:hover .from_the_blog_title,.portfolio_single_list_cat a:hover{color: #f4b115;}@media only screen and (min-width: 40.063em) {.nav-next a:hover,.nav-previous a:hover{color: #f4b115;}}.widget_shopping_cart .buttons a.view_cart,.widget.widget_price_filter .price_slider_amount .button,.products a.button,.woocommerce .products .added_to_cart.wc-forward,.woocommerce-page .products .added_to_cart.wc-forward{color: #f4b115 !important;}.order-info mark,.login_footer,.post_tags a:hover,.with_thumb_icon,.wpb_wrapper .wpb_toggle:before,#content .wpb_wrapper h4.wpb_toggle:before,.wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon,.wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon,.widget .tagcloud a:hover,.woocommerce .widget_layered_nav ul li.chosen a,.woocommerce-page .widget_layered_nav ul li.chosen a,.single_product_summary_related h2:after,.single_product_summary_upsell h2:after,.page-title.portfolio_item_title:after,#button_offcanvas_sidebar_left,#button_offcanvas_sidebar_left i,.woocommerce .widget_layered_nav_filters ul li a,.woocommerce-page .widget_layered_nav_filters ul li a,.thumbnail_archive_container:before,.from_the_blog_overlay,.select2-results .select2-highlighted{background: #f4b115;}@media only screen and (max-width: 40.063em) {.nav-next a:hover,.nav-previous a:hover{background: #f4b115;}}.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.woocommerce .quantity .plus,.woocommerce .quantity .minus,.woocommerce #content .quantity .plus,.woocommerce #content .quantity .minus,.woocommerce-page .quantity .plus,.woocommerce-page .quantity .minus,.woocommerce-page #content .quantity .plus,.woocommerce-page #content .quantity .minus{background: #f4b115 !important;}.button,input[type="button"],input[type="reset"],input[type="submit"]{background-color: #f4b115 !important;}.product_infos .yith-wcwl-wishlistaddedbrowse a:hover,.product_infos .yith-wcwl-wishlistexistsbrowse a:hover,.shipping-calculator-button:hover,.products a.button:hover,.woocommerce .products .added_to_cart.wc-forward:hover,.woocommerce-page .products .added_to_cart.wc-forward:hover,.products .yith-wcwl-wishlistexistsbrowse:hover a,.products .yith-wcwl-wishlistaddedbrowse:hover a,.order-number a:hover,.account_view_link:hover,.post-edit-link:hover,.url:hover{color:  rgba(244,177,21,0.8) !important;}.product-title-link:hover{color:  rgba(0,0,0,0.8);}.button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.woocommerce .product_infos .quantity .minus:hover,.woocommerce #content .product_infos .quantity .minus:hover,.woocommerce-page .product_infos .quantity .minus:hover,.woocommerce-page #content .product_infos .quantity .minus:hover,.woocommerce .quantity .plus:hover,.woocommerce #content .quantity .plus:hover,.woocommerce-page .quantity .plus:hover,.woocommerce-page #content .quantity .plus:hover{background: rgba(244,177,21,0.8) !important;}.post_tags a:hover,.widget .tagcloud a:hover,.widget_shopping_cart .buttons a.view_cart,.account-tab-link-mobile,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle{border-color: #f4b115;}.wpb_tour.wpb_content_element .wpb_tabs_nav  li.ui-tabs-active a,.wpb_tabs.wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a,.main-navigation ul ul li a:hover{border-bottom-color: #f4b115;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active{border-top-color: #f4b115;}/***************************************************************//* Top Bar *****************************************************//***************************************************************/#site-top-bar {height:0px;}#site-top-bar,#site-navigation-top-bar .sf-menu ul{background: #333333;}#site-top-bar,#site-top-bar a{color:#ffffff;}/***************************************************************//* 	Header *****************************************************//***************************************************************/.site-header{background: #333333;}@media only screen and (min-width: 63.9375em) {.site-header {background-color:#333333;background-repeat:;background-position:;background-size:;background-attachment:;}}@media only screen and (min-width: 63.9375em) {.site-branding img {height:33px;width:auto;}.site-header .main-navigation,.site-header .site-tools{height:33px;line-height:33px;}}@media only screen and (min-width: 63.9375em) {.site-header.sticky .main-navigation,.site-header.sticky .site-tools,.site-header.sticky .site-branding img{height:33px;line-height:33px;width:auto;}}@media only screen and (min-width: 63.9375em) {.site-header {padding-top:15px;}}@media only screen and (min-width: 63.9375em) {.site-header {padding-bottom:15px;}}@media only screen and (min-width: 63.9375em) {#page_wrapper.sticky_header .content-area,#page_wrapper.transparent_header .content-area{margin-top:63px;}.transparent_header .single-post-header .title,#page_wrapper.transparent_header .shop_header .page-title{padding-top: 63px;}.transparent_header .single-post-header.with-thumb .title{padding-top: 263px;}}.site-header,.default-navigation,.main-navigation .mega-menu > ul > li > a{font-size: 13px;}.site-header,.main-navigation a,.site-tools ul li a,.shopping_bag_items_number,.wishlist_items_number,.site-title a,.widget_product_search .search-but-added,.widget_search .search-but-added{color:#ffffff;}.site-branding{border-color: #ffffff;}@media only screen and (min-width: 63.9375em) {.site-header,.main-navigation a,.site-tools ul li a,.shopping_bag_items_number,.wishlist_items_number,.site-title a,.widget_product_search .search-but-added,.widget_search .search-but-added{color:#ffffff;}.site-branding{border-color: #ffffff;}}@media only screen and (min-width: 63.9375em) {#page_wrapper.transparent_header.transparency_light .site-header,#page_wrapper.transparent_header.transparency_light .site-header .main-navigation a,#page_wrapper.transparent_header.transparency_light .site-header .site-tools ul li a,#page_wrapper.transparent_header.transparency_light .site-header .shopping_bag_items_number,#page_wrapper.transparent_header.transparency_light .site-header .wishlist_items_number,#page_wrapper.transparent_header.transparency_light .site-header .site-title a,#page_wrapper.transparent_header.transparency_light .site-header .widget_product_search .search-but-added,#page_wrapper.transparent_header.transparency_light .site-header .widget_search .search-but-added{color:#ffffff;}}@media only screen and (min-width: 63.9375em) {#page_wrapper.transparent_header.transparency_dark .site-header,#page_wrapper.transparent_header.transparency_dark .site-header .main-navigation a,#page_wrapper.transparent_header.transparency_dark .site-header .site-tools ul li a,#page_wrapper.transparent_header.transparency_dark .site-header .shopping_bag_items_number,#page_wrapper.transparent_header.transparency_dark .site-header .wishlist_items_number,#page_wrapper.transparent_header.transparency_dark .site-header .site-title a,#page_wrapper.transparent_header.transparency_dark .site-header .widget_product_search .search-but-added,#page_wrapper.transparent_header.transparency_dark .site-header .widget_search .search-but-added{color:#000000;}}/* sticky */@media only screen and (min-width: 63.9375em) {.site-header.sticky,#page_wrapper.transparent_header .site-header.sticky{background: #333333;}}@media only screen and (min-width: 63.9375em) {.site-header.sticky,.site-header.sticky .main-navigation a,.site-header.sticky .site-tools ul li a,.site-header.sticky .shopping_bag_items_number,.site-header.sticky .wishlist_items_number,.site-header.sticky .site-title a,.site-header.sticky .widget_product_search .search-but-added,.site-header.sticky .widget_search .search-but-added,#page_wrapper.transparent_header .site-header.sticky,#page_wrapper.transparent_header .site-header.sticky .main-navigation a,#page_wrapper.transparent_header .site-header.sticky .site-tools ul li a,#page_wrapper.transparent_header .site-header.sticky .shopping_bag_items_number,#page_wrapper.transparent_header .site-header.sticky .wishlist_items_number,#page_wrapper.transparent_header .site-header.sticky .site-title a,#page_wrapper.transparent_header .site-header.sticky .widget_product_search .search-but-added,#page_wrapper.transparent_header .site-header.sticky .widget_search .search-but-added{color:#ffffff;}.site-header.sticky .site-branding{border-color: #ffffff;}}@media only screen and (max-width: 63.9375em) {.site-logo {display:none;}.sticky-logo {display:block;}}/* header-centered-2menus *//* header-centered-menu-under *//***************************************************************//* Footer ******************************************************//***************************************************************/#site-footer{background: #F4F4F4;}#site-footer,#site-footer .copyright_text a{color:#868686;}#site-footer a,#site-footer .widget-title,.cart-empty-text,.footer-navigation-wrapper ul li:after{color:#333333;}/***************************************************************//* Breadcrumbs *************************************************//***************************************************************//***************************************************************//* Product Page Full Screen Description ************************//***************************************************************//********************************************************************//* Custom CSS *******************************************************//********************************************************************/</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="error404 wpb-js-composer js-comp-ver-4.7.2 vc_responsive">
+
+	<div id="st-container" class="st-container">
+
+        <div class="st-pusher">
+            
+            <div class="st-pusher-after"></div>   
+                
+                <div class="st-content">
+
+                    
+                                        
+                    <div id="page_wrapper" class="sticky_header  transparency_light">
+                    
+                                             
+                        
+                                                
+                        <div class="top-headers-wrapper">
+						
+                                                        
+                            								
+																	
+<header id="masthead" class="site-header" role="banner">
+
+        <div class="row">		
+        <div class="large-12 columns">
+        
+        
+            <div class="site-header-wrapper" style="max-width:1680px">
+                
+                <div class="site-branding">
+                        
+                        
+                        <a href="http://localhost/goconex/" rel="home">
+                        	<img class="site-logo" src="http://localhost/goconex/wp-content/uploads/2014/12/goconex-switch-without-wires-header-logo.png" title="GoConex &#8211; switch without wires &#8211; wireless switch" alt="GoConex" />
+                                                        	<img class="sticky-logo" src="http://localhost/goconex/wp-content/uploads/2014/12/goconex-switch-without-wires-header-logo.png" title="GoConex &#8211; switch without wires &#8211; wireless switch" alt="GoConex" />
+                                                    </a>
+                    
+                                        
+                </div><!-- .site-branding --> 
+                
+                                    
+                <div class="site-tools offset">
+                    <ul>
+                        
+                                                
+                                                                                                <li class="shopping-bag-button">
+                            <a href="http://localhost/goconex/cart/" class="tools_button">
+                                <span class="tools_button_icon">
+                                	                                    <i class="fa fa-shopping-cart"></i>
+									                                </span>
+                                <span class="shopping_bag_items_number">0</span>
+                            </a>
+                        </li>
+                                                                                                
+                                                <li class="search-button">
+                            <a class="tools_button">
+                                <span class="tools_button_icon">
+                                	                                    <i class="fa fa-search"></i>
+									                                </span>
+                            </a>
+                        </li>
+                                                
+                        <li class="offcanvas-menu-button hide-for-large-up">
+                            <a class="tools_button">
+								<span class="menu-button-text">menu</span>
+                                <span class="tools_button_icon">
+                                	                                    <i class="fa fa-bars"></i>
+									                                </span>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                
+                <nav class="show-for-large-up main-navigation default-navigation align_right" role="navigation">                    
+                    <ul class="menu-header-navigation"><li id="shopkeeper-menu-item-3922" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://localhost/goconex/estimate/"><strong>Estimate</strong></a></li>
+<li id="shopkeeper-menu-item-3971" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://localhost/goconex/builder-form/"><strong>Builder Form</strong></a></li>
+<li id="shopkeeper-menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://localhost/goconex/shop/"><strong>Products</strong></a></li>
+<li id="shopkeeper-menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://localhost/goconex/support/"><strong>Support</strong></a></li>
+<li id="shopkeeper-menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://localhost/goconex/my-account/"><strong>My Account</strong></a></li>
+</ul>           
+                </nav><!-- .main-navigation -->
+                
+                <div style="clear:both"></div>
+                             
+            </div><!--.site-header-wrapper-->
+        
+            </div><!-- .columns -->
+    </div><!-- .row -->
+    
+</header><!-- #masthead -->
+
+
+
+<script>
+
+	jQuery(document).ready(function($) {
+
+    "use strict";
+	
+		$(window).scroll(function() {
+			
+			if ($(window).scrollTop() > 0) {
+				
+									$('#site-top-bar').addClass("hidden");
+					$('.site-header').addClass("sticky");
+											$('.site-logo').attr('src', 'http://localhost/goconex/wp-content/uploads/2014/12/goconex-switch-without-wires-header-logo.png');
+													
+			} else {
+				
+									$('#site-top-bar').removeClass("hidden");
+					$('.site-header').removeClass("sticky");
+											$('.site-logo').attr('src', 'http://localhost/goconex/wp-content/uploads/2014/12/goconex-switch-without-wires-header-logo.png');
+													
+			}	
+			
+		});
+	
+	});
+	
+</script>
+
+
+                                                                
+                                                    
+                        </div>
+						
+						
+	<div id="primary" class="content-area">
+
+        <div class="row">	
+            <div class="large-10 large-centered columns">    
+                <div id="content" class="site-content" role="main">
+                
+                    <section class="error-404 not-found">
+                        <header class="page-header">
+                            <div class="error-banner">
+								<img id="error-404" class="error" alt="404-banner"  width="202" height="220"  src="http://localhost/goconex/wp-content/themes/shopkeeper/images/error_404.png" data-interchange="[http://localhost/goconex/wp-content/themes/shopkeeper/images/error_404.png, (default)], [http://localhost/goconex/wp-content/themes/shopkeeper/images/error_404_retina.png, (retina)]">
+                            </div>
+                            <h1 class="page-title">Oops 404 again! That page can't be found.</h1>
+                        </header><!-- .page-header -->
+        
+                        <div class="page-content">
+                            <p class="error-404-text">It looks like nothing was found at this location. Maybe try a search?</p>
+        
+                            <form role="search" method="get" class="search-form" action="http://localhost/goconex/">    
+    <label class="screen-reader-text" for="s">Search for:</label>
+    <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+    <input type="submit" class="search-submit" value="Search">
+<input type='hidden' name='lang' value='en' /></form>        
+                        </div><!-- .page-content -->
+                    </section><!-- .error-404 -->
+                    
+                </div><!-- #content -->
+            </div><!-- .large-12 .columns -->                
+        </div><!-- .row -->
+             
+    </div><!-- #primary -->
+
+					                    
+                    					
+					                    
+                    <footer id="site-footer" role="contentinfo">
+                        
+                    	                         
+                        <div class="site-footer-copyright-area">
+                            <div class="row">
+								<div class="large-12 columns">
+				
+									                                    
+                                    <ul class="footer_socials_wrapper">
+                                        
+                                        <li><a href="https://www.facebook.com/goconex" target="_blank" class="social_media"><i class="fa fa-facebook"></i></a></li><li><a href="https://www.linkedin.com/company/goconex" target="_blank" class="social_media"><i class="fa fa-linkedin"></i></a></li><li><a href="https://twitter.com/GoConex" target="_blank" class="social_media"><i class="fa fa-twitter"></i></a></li><li><a href="https://plus.google.com/u/0/b/111165700912630239946/111165700912630239946" target="_blank" class="social_media"><i class="fa fa-google-plus"></i></a></li><li><a href="https://www.youtube.com/channel/UCqu7yYf9W7DWXt-mHM5J-Gw" target="_blank" class="social_media"><i class="fa fa-youtube"></i></a></li>                                        
+									</ul>
+                                    
+                                                                    
+									<nav class="footer-navigation-wrapper" role="navigation">                    
+										<ul class="menu-footer-navigation"><li id="menu-item-429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429"><a href="http://localhost/goconex/shop/">Products</a></li>
+<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="http://localhost/goconex/support/">Support</a></li>
+<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="http://localhost/goconex/my-account/">My Account</a></li>
+<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="http://localhost/goconex/privacy/">Privacy</a></li>
+<li id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="http://localhost/goconex/contact/">Contact Us</a></li>
+</ul>           
+									</nav><!-- #site-navigation -->   
+								
+                                    <div class="copyright_text">
+                                                                                    © GoConex / Levven Electronics Ltd.                                                                            </div><!-- .copyright_text -->  
+                            
+								</div><!--.large-12-->
+							</div><!-- .row --> 
+                        </div><!-- .site-footer-copyright-area -->
+                               
+                    </footer>
+                    
+                                        
+                </div><!-- #page_wrapper -->
+                        
+            </div><!-- /st-content -->
+        </div><!-- /st-pusher -->        
+        
+        <nav class="st-menu slide-from-left //hide-for-large-up shop-has-sidebar">
+            <div class="nano">
+                <div class="content">
+					
+                    <div class="offcanvas_content_left wpb_widgetised_column">
+                    
+                        <div id="filters-offcanvas">
+                                                            <aside id="currency_sel_widget-2" class="widget widget_currency_sel_widget"><select class="wcml_currency_switcher"><option value="CAD" selected="selected">Canadian Dollars (&#36;) - CAD</option><option value="USD">US Dollars (&#36;) - USD</option></select></aside>                                                    </div>
+                    
+                    </div>
+                    
+                </div>
+            </div>
+        </nav>
+        
+        <nav class="st-menu slide-from-right">
+            <div class="nano">
+                <div class="content">
+                
+                    <div class="offcanvas_content_right">                	
+                        
+                        <div id="mobiles-menu-offcanvas">
+                            
+                                                            
+                                <div class="mobile-search hide-for-large-up">
+									
+									<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="http://localhost/goconex/">
+	<label class="screen-reader-text" for="s">Search for:</label>
+	<input type="search" class="search-field" placeholder="Search Products&hellip;" value="" name="s" title="Search for:" />
+	<input type="submit" value="Search" />
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>									
+									<div class="mobile_search_submit">
+										<i class="fa fa-search"></i>
+									</div>
+								
+                                </div>
+                                
+                                <nav class="mobile-navigation primary-navigation hide-for-large-up" role="navigation">
+                                <ul id="menu-header-navigation-1"><li id="menu-item-3922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3922"><a href="http://localhost/goconex/estimate/">Estimate</a></li>
+<li id="menu-item-3971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3971"><a href="http://localhost/goconex/builder-form/">Builder Form</a></li>
+<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="http://localhost/goconex/shop/">Products</a></li>
+<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="http://localhost/goconex/support/">Support</a></li>
+<li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494"><a href="http://localhost/goconex/my-account/">My Account</a></li>
+</ul>                                </nav>
+                                
+                                                        
+                            							
+							                            
+                            							
+															
+														
+							<div class="language-and-currency-offcanvas hide-for-large-up">
+							
+								                
+                                                                        
+                                    <select class="topbar-language-switcher">
+                                        <option>English</option>
+                                                                            </select>
+                                
+                                                                
+                                                                    <select class="wcml_currency_switcher"><option value="CAD" selected="selected">Canadian Dollars (&#36;) - CAD</option><option value="USD">US Dollars (&#36;) - USD</option></select>                                                            
+                            </div>
+                            
+                        </div>
+                                            
+                    </div>
+                
+                </div>
+            </div>
+        </nav>
+	
+    </div><!-- /st-container -->
+
+	<!-- ******************************************************************** -->
+    <!-- * Site Search ****************************************************** -->
+    <!-- ******************************************************************** -->
+
+	<div class="site-search">
+		<div class="site-search-inner">
+		<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="http://localhost/goconex/">
+	<label class="screen-reader-text" for="s">Search for:</label>
+	<input type="search" class="search-field" placeholder="Search Products&hellip;" value="" name="s" title="Search for:" />
+	<input type="submit" value="Search" />
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>		</div>
+	</div><!-- .site-search -->
+
+    <!-- ******************************************************************** -->
+    <!-- * Custom Footer JavaScript Code ************************************ -->
+    <!-- ******************************************************************** -->
+    
+    		                                        	
+    <!-- ******************************************************************** -->
+    <!-- * WP Footer() ****************************************************** -->
+    <!-- ******************************************************************** -->
+	
+	<!--Enhanced Ecommerce Google Analytics Plugin for Woocommerce by Tatvic Plugin Version:1.0.16--><script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/goconex-calculator/js/slider-js.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/goconex-calculator/js/bootstrap-slider.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/goconex-calculator/js/loader/min/jquery.loader.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/goconex-calculator/js/jquery-ui.js?ver=2.1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"ajaxurl":"http:\/\/localhost\/goconex\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/localhost\/goconex\/wp-content\/plugins\/goconex-calculator\/","report_url":"http:\/\/localhost\/goconex\/report"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/goconex-calculator/js/custom.js?ver=2.1.0'></script>
+<script type='text/javascript' src='//localhost/goconex/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/goconex\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/goconex\/wp-content\/plugins\/goconex-calculator-pdf-vendor\/second-result-sheet.php?id=410&wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//localhost/goconex/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.7'></script>
+<script type='text/javascript' src='//localhost/goconex/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/goconex\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/goconex\/wp-content\/plugins\/goconex-calculator-pdf-vendor\/second-result-sheet.php?id=410&wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//localhost/goconex/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.7'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/jquery.touchSwipe.min.js?ver=1.6.5'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/jquery.fitvids.js?ver=1.0.3'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/idangerous.swiper-2.4.1.min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/owl.carousel.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/fresco.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/select2.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/jquery.nanoscroller.min.js?ver=0.7.6'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/jquery.stellar.min.js?ver=0.6.2'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/isotope.pkgd.min.js?ver=v2.0.0'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/imagesloaded.js?ver=v3.1.4'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/easyzoom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/themes/shopkeeper/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/localhost\/goconex\/","ajax_url":"http:\/\/localhost\/goconex\/wp-admin\/admin-ajax.php","url_type":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/goconex/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.3.1'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) {
+tvc_lc="CAD";
+
+
+            jQuery('.wcml_currency_switcher').on('change', function(){                   
+                    var currency = jQuery(this).val(); 
+                load_currency(currency);
+            });
+            jQuery('.wcml_currency_switcher li').on('click', function(){
+                if(jQuery(this).hasClass('wcml-active-currency')){
+                    return;
+                }
+                var currency = jQuery(this).attr('rel');
+                load_currency(currency);
+            });
+
+
+            function load_currency(currency){
+                var ajax_loader = jQuery('<img style="margin-left:10px;" width="16" heigth="16" src="http://localhost/goconex/wp-content/plugins/woocommerce-multilingual/assets/images/ajax-loader.gif" />')
+                    jQuery('.wcml_currency_switcher').attr('disabled', 'disabled');
+                    jQuery('.wcml_currency_switcher').after();
+                    ajax_loader.insertAfter(jQuery('.wcml_currency_switcher'));
+                    jQuery.ajax({
+                        type : 'post',
+                        url : woocommerce_params.ajax_url,
+                        data : {
+                            action: 'wcml_switch_currency',
+                            currency : currency,
+                            wcml_nonce: 'cbf688fb49'
+                        },
+                        success: function(response) {
+                            if(typeof response.error !== 'undefined'){
+                                alert(response.error);
+                            }else{
+                                jQuery('.wcml_currency_switcher').removeAttr('disabled');
+                                ajax_loader.remove();
+                                window.location = window.location.href;
+                            }
+                        }
+                    });
+            }
+        
+
+homepage_json_ATC_link=[];
+
+tvc_fp=[];
+
+tvc_rcp=[];
+
+tvc_rdp=[];
+
+prodpage_json_ATC_link=[];
+
+tvc_pgc=[];
+
+catpage_json_ATC_link=[];
+
+tvc_smd={"tvc_wcv":"2.4.7","tvc_wpv":"4.3.1","tvc_eev":"1.0.16","tvc_cnf":{"t_ee":"yes","t_df":false,"t_gUser":true,"t_UAen":"yes","t_thr":"1"}};
+});
+</script>
+    
+</body>
+
+</html>

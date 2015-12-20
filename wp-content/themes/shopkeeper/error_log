@@ -1,0 +1,4 @@
+[20-Sep-2015 22:39:11 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/goconexc/public_html/wp-content/themes/shopkeeper/comments.php on line 2
+[22-Sep-2015 06:12:35 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/goconexc/public_html/wp-content/themes/shopkeeper/comments.php on line 2
+[23-Sep-2015 15:44:17 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/goconexc/public_html/wp-content/themes/shopkeeper/comments.php on line 2
+[28-Sep-2015 23:04:54 UTC] PHP Fatal error:  Call to undefined function is_single() in /home/goconexc/public_html/wp-content/themes/shopkeeper/index.php on line 6

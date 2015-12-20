@@ -1,0 +1,51 @@
+/*
+Theme Name:     Shopkeeper Child
+Description:    child theme
+Author:         ThemeManiac
+Template:       shopkeeper
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.breadcrumbs {  margin-bottom: 35px;}
+
+.product_after_shop_loop_buttons {
+  height: 48px;
+}
+
+.product_after_shop_loop {height: 50px}
+
+.product_after_shop_loop_switcher {
+  height: 83px;}
+
+.product_after_shop_loop_buttons a.second {  margin-top: -2px!important;
+  display: block;}
+
+.product_after_shop_loop_price {
+  height: 40px;}
+
+.wpb_content_element{
+  margin-bottom: 35px;
+}
+
+
+.product_after_shop_loop_switcher {
+  transform: translateY(-33px);
+  -ms-transform: translateY(-33px);
+  -webkit-transform: translateY(-33px);
+}
+
+
+.product_after_shop_loop {
+    height: 70px;
+}
+
+.product_after_shop_loop_price {
+    height: 40px;
+    margin-top: 34px;
+    margin-bottom: -17px;
+}
+
+.product_after_shop_loop_switcher {
+    height: 100px;
+}
