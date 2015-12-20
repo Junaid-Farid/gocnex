@@ -33,6 +33,7 @@ function estimate_table_install() {
      *     Like this: PRIMARY KEY[space][space](id)
      * otherwise dbDelta will not work
      */
+	 
     $sql = "CREATE TABLE " . $table_name . " ( 
             id int(11) NOT NULL AUTO_INCREMENT,
             user_id BIGINT NOT NULL,
